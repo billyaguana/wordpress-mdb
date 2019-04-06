@@ -1,2 +1,6 @@
-# wordpress-mdb
-Wordpress with modified underscores theme with MDB installed
+# Wordpress Builder
+Specifications :
+- Wordpress Theme
+- Modified Underscores Theme
+- Bootstrap
+- Material Design For Bootstrap (disable/enable)
